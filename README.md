@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Mohammad Khwahish Siddiqui
 
 <p align="center">
-  <strong><font size="4">Backend Developer | Security Enthusiast</font></strong>
+  <strong><font size="4">Backend Developer | Security Enthusiast | Growth-Driven Marketer</font></strong>
 </p>
 
 * 👨🏻‍💻 Backend Developer with hands-on experience in building scalable server-side applications using Node.js and Python
